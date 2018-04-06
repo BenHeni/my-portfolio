@@ -1,0 +1,31 @@
+{
+  "name": "my-portfolio",
+  "version": "0.0.0",
+  "description": "javascript stack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenHeni/my-portfolio.git"
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "bootstrap",
+    "jQuery"
+  ],
+  "author": "BenHeni Amine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenHeni/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/BenHeni/my-portfolio#readme",
+  "dependencies": {
+    "angular": "~1.6.9",
+    "angular-route": "^1.6.9",
+    "bootstrap": "~4.0.0",
+    "jquery": "~3.3.1"
+  }
+}
